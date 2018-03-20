@@ -4,4 +4,4 @@ if(alp>='a'):
 elif(alp>='A'):
     print("alphabet")
 else:
-    print("not an alphabet")
+    print("not an alphabet") 
