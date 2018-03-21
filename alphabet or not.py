@@ -1,7 +1,7 @@
 alp = raw_input("")
 if(alp>='a'):
-    print("alphabet")
+    print("Yes")
 elif(alp>='A'):
-    print("alphabet")
+    print("Yes")
 else:
-    print("not an alphabet") 
+    print("No") 
