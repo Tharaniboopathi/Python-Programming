@@ -1,4 +1,4 @@
-num = int(input("enter an integer1))
+num1 = int(input("enter an integer1))
 num2 = int(input("enter an integer2))
 num3 = int(input("enter an integer3))
 if((num1>num2) and (num1>num3)):
